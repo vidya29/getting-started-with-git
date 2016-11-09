@@ -3,8 +3,8 @@
   */
 
 
-object HelloWorld1 {
+object HelloWorldb12 {
   def main(args: Array[String]) {
-    println("Hello, world One!")
+    println("Hello, world!")
   }
 }
